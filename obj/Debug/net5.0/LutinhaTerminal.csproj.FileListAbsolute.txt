@@ -1,0 +1,16 @@
+C:\Users\dev\Desktop\LutinhaTerminal\obj\Debug\net5.0\LutinhaTerminal.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\LutinhaTerminal\obj\Debug\net5.0\LutinhaTerminal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Desktop\LutinhaTerminal\obj\Debug\net5.0\LutinhaTerminal.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\LutinhaTerminal\obj\Debug\net5.0\LutinhaTerminal.AssemblyInfo.cs
+C:\Users\dev\Desktop\LutinhaTerminal\obj\Debug\net5.0\LutinhaTerminal.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\LutinhaTerminal\bin\Debug\net5.0\LutinhaTerminal.exe
+C:\Users\dev\Desktop\LutinhaTerminal\bin\Debug\net5.0\LutinhaTerminal.deps.json
+C:\Users\dev\Desktop\LutinhaTerminal\bin\Debug\net5.0\LutinhaTerminal.runtimeconfig.json
+C:\Users\dev\Desktop\LutinhaTerminal\bin\Debug\net5.0\LutinhaTerminal.runtimeconfig.dev.json
+C:\Users\dev\Desktop\LutinhaTerminal\bin\Debug\net5.0\LutinhaTerminal.dll
+C:\Users\dev\Desktop\LutinhaTerminal\bin\Debug\net5.0\ref\LutinhaTerminal.dll
+C:\Users\dev\Desktop\LutinhaTerminal\bin\Debug\net5.0\LutinhaTerminal.pdb
+C:\Users\dev\Desktop\LutinhaTerminal\obj\Debug\net5.0\LutinhaTerminal.dll
+C:\Users\dev\Desktop\LutinhaTerminal\obj\Debug\net5.0\ref\LutinhaTerminal.dll
+C:\Users\dev\Desktop\LutinhaTerminal\obj\Debug\net5.0\LutinhaTerminal.pdb
+C:\Users\dev\Desktop\LutinhaTerminal\obj\Debug\net5.0\LutinhaTerminal.genruntimeconfig.cache
